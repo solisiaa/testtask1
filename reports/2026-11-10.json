@@ -1,0 +1,151 @@
+{
+  "as_of": "2026-11-10",
+  "currency": "RUB",
+  "allocation_is_assumed": true,
+  "contracts": [
+    {
+      "contract_id": "D-1",
+      "contractor": "Студия «Свет»",
+      "contract_amount": "600000.00",
+      "works_price": "600000.00",
+      "active_works_amount": "500000.00",
+      "contract_minus_active": "100000.00",
+      "gross_paid": "365000.00",
+      "refunded": "50000.00",
+      "paid": "315000.00",
+      "queued": "150000.00",
+      "unallocated": "0.00",
+      "remaining": "185000.00",
+      "overpaid": "0.00",
+      "net_balance": "185000.00",
+      "works": [
+        {
+          "work_id": "W-11",
+          "title": "Съёмка: весенняя коллекция",
+          "status": "done",
+          "price": "100000.00",
+          "payable": "100000.00",
+          "direct_paid": "0.00",
+          "allocated_paid": "100000.00",
+          "paid": "100000.00",
+          "remaining": "0.00",
+          "overpaid": "0.00"
+        },
+        {
+          "work_id": "W-12",
+          "title": "Съёмка: лето",
+          "status": "done",
+          "price": "100000.00",
+          "payable": "100000.00",
+          "direct_paid": "0.00",
+          "allocated_paid": "100000.00",
+          "paid": "100000.00",
+          "remaining": "0.00",
+          "overpaid": "0.00"
+        },
+        {
+          "work_id": "W-13",
+          "title": "Съёмка: аксессуары",
+          "status": "cancelled",
+          "price": "100000.00",
+          "payable": "0.00",
+          "direct_paid": "0.00",
+          "allocated_paid": "0.00",
+          "paid": "0.00",
+          "remaining": "0.00",
+          "overpaid": "0.00"
+        },
+        {
+          "work_id": "W-14",
+          "title": "Съёмка: осень",
+          "status": "done",
+          "price": "100000.00",
+          "payable": "100000.00",
+          "direct_paid": "15000.00",
+          "allocated_paid": "85000.00",
+          "paid": "100000.00",
+          "remaining": "0.00",
+          "overpaid": "0.00"
+        },
+        {
+          "work_id": "W-15",
+          "title": "Съёмка: зима",
+          "status": "planned",
+          "price": "100000.00",
+          "payable": "100000.00",
+          "direct_paid": "0.00",
+          "allocated_paid": "15000.00",
+          "paid": "15000.00",
+          "remaining": "85000.00",
+          "overpaid": "0.00"
+        },
+        {
+          "work_id": "W-16",
+          "title": "Съёмка: новогодняя",
+          "status": "planned",
+          "price": "100000.00",
+          "payable": "100000.00",
+          "direct_paid": "0.00",
+          "allocated_paid": "0.00",
+          "paid": "0.00",
+          "remaining": "100000.00",
+          "overpaid": "0.00"
+        }
+      ]
+    },
+    {
+      "contract_id": "D-2",
+      "contractor": "Иван Петров, дизайнер",
+      "contract_amount": "90000.00",
+      "works_price": "90000.00",
+      "active_works_amount": "90000.00",
+      "contract_minus_active": "0.00",
+      "gross_paid": "75000.00",
+      "refunded": "0.00",
+      "paid": "75000.00",
+      "queued": "0.00",
+      "unallocated": "0.00",
+      "remaining": "15000.00",
+      "overpaid": "0.00",
+      "net_balance": "15000.00",
+      "works": [
+        {
+          "work_id": "W-21",
+          "title": "Логотип",
+          "status": "done",
+          "price": "20000.00",
+          "payable": "20000.00",
+          "direct_paid": "0.00",
+          "allocated_paid": "20000.00",
+          "paid": "20000.00",
+          "remaining": "0.00",
+          "overpaid": "0.00"
+        },
+        {
+          "work_id": "W-22",
+          "title": "Фирменный стиль",
+          "status": "done",
+          "price": "30000.00",
+          "payable": "30000.00",
+          "direct_paid": "0.00",
+          "allocated_paid": "30000.00",
+          "paid": "30000.00",
+          "remaining": "0.00",
+          "overpaid": "0.00"
+        },
+        {
+          "work_id": "W-23",
+          "title": "Упаковка",
+          "status": "planned",
+          "price": "40000.00",
+          "payable": "40000.00",
+          "direct_paid": "0.00",
+          "allocated_paid": "25000.00",
+          "paid": "25000.00",
+          "remaining": "15000.00",
+          "overpaid": "0.00"
+        }
+      ]
+    }
+  ]
+}
